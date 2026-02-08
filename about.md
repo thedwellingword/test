@@ -18,7 +18,7 @@ hero:
 who_we_are:
   title: "Who Are We?"
   subtitle: "We are a digital and branding company that believes in the power of creative strategy and along with great design."
-  text: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
+  text: "Cum sociis blitzen penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
   icon: "megaphone"
   list_items:
     - "Aenean eu leo quam ornare curabitur blandit tempus."
